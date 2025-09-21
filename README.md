@@ -1,5 +1,7 @@
 <p><b>DEMO:</b> <a href="https://errstein.com/p/indexerr.html">IndexErr</a>
 
+<p class="note">Note : This script is for blogger page or post, include CSS.</p>
+<hr>
 <h2>Cara Menggunakan Tool IndexErr API</h2>
 <p style="text-align: justify;">Panduan ini akan memandu kamu langkah demi langkah untuk menggunakan tool di atas. Pastikan kamu sudah menyelesaikan persiapan awal dan memiliki <strong>file kunci .json</strong> dari <b>Google Cloud Console</b>.</p>
 
